@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureFaceRecognitionDemo", "AzureFaceRecognitionDemo.csproj", "{A840543F-DE66-47A8-BA4B-82C836373D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A840543F-DE66-47A8-BA4B-82C836373D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A840543F-DE66-47A8-BA4B-82C836373D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A840543F-DE66-47A8-BA4B-82C836373D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A840543F-DE66-47A8-BA4B-82C836373D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65321E5-09DF-4A77-BA87-928A708B1FA5}
+	EndGlobalSection
+EndGlobal
